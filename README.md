@@ -1,7 +1,7 @@
 <h1 align=center>Hello, I am Glamor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DSA%20|%20CloudComputing%20|Python%20;Open%20Source%20contributor&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DSA%20|%20Programmar%20|Java%20;Open%20Source%20contributor&center=true&width=500&height=50"></a>
 </p>
 
 <h1>About Me</h1>
@@ -29,17 +29,12 @@
 <br>
 
 
-<h3>Github Stats</h3>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Muskan-creator&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-creator&theme=dark" width="48%" >
 
 <h3> Let's connect </h3>
 <div>
-  <a href="https://twitter.com/Muskan11548907?s=08" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter;" />
-  </a>
-  <a href="https://www.linkedin.com/in/muskan-bansal-095601189/" target="_blank">
+ 
+  <a href="https://www.linkedin.com/in/sandhya-mishra-she-her-503014209/" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin;" />
   </a>
  
