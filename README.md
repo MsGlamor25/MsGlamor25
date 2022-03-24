@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/MsGlamor25/MsGlamor25/blob/main/Wave.gif" height="55px" width="55px">, I'm Sandhya Mishra</h1>
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub//MsGlamor25/blob/main/Wave.gif" height="55px" width="55px">, I'm Sandhya Mishra</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Web developer | Learner |
